@@ -13,7 +13,17 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-
-
+    
+    // LÀM ANIMATION
+    // ÂM THANH
+    // TIMER, AVAUDIOPLAYER
+    
+    
+    // BUỎI 4 - ÔN TẬP
+    // 1. GITHUB
+    // setup môi trường, cấu hình
+    // 100% DEV -> GITHUB
+    // đọc doc apple -> AVAudioPlayer
+ 
 }
 
